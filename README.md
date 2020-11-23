@@ -1,1 +1,1 @@
-# c++codes_contest1
+# c_codes_contest1
